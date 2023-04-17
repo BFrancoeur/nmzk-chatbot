@@ -1,0 +1,55 @@
+{
+    "venues": [
+        {
+            "name": "ABC Pub",
+            "address": "123 Main Street",
+            "city": "Ashland",
+            "state": "KY",
+            "zip_code": "41102",
+            "venue_type": "Sports Bar",
+            "live_music": true,
+            "days": [
+                "Friday",
+                "Saturday"
+            ],
+            "cover_charge": "$8.00",
+            "start_time": "9:00pm",
+            "age": "21 and over only"
+        },
+
+        {
+            "name": "Brewsters",
+            "address": "7045 Industrial Parkway",
+            "city": "Greenup",
+            "state": "KY",
+            "zip_code": "41109",
+            "venue_type": "Brew Pub",
+            "live_music": true,
+            "days": [
+                "Friday",
+                "Saturday"
+            ],
+            "cover_charge": "$12.00",
+            "start_time": "9:00pm",
+            "age": "21 and over only"
+        },
+
+        {
+            "name": "Chazzy's Bar",
+            "address": "305 5th Street",
+            "city": "Ashland",
+            "state": "KY",
+            "zip_code": "41102",
+            "venue_type": "Sports Bar",
+            "live_music": true,
+            "days": [
+                "Friday",
+                "Saturday"
+            ],
+            "cover_charge": "$10.00",
+            "start_time": "9:00pm",
+            "age": "21 and over only"
+        }
+    ]
+
+}
